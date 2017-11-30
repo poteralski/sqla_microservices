@@ -1,3 +1,5 @@
 click
 flask-sqlalchemy
 flask
+flask_admin
+aiohttp
